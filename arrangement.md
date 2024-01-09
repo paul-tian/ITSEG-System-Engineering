@@ -1,6 +1,6 @@
 # Presentation List
 
-| Name      | Date | Article | Link | Status|
-| ----------- | ----------- |----------- | ----------- | ----------- |
-| Jiaohong Yao | TBC    | TBC|TBC | Incomplete |
-| Xuning Tan | TBC    | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | https://www.computer.org/csdl/proceedings-article/cvpr/2018/642000g077/17D45XwUAKU | Incomplete |
+| Name      | Date | Article| Status|
+| ----------- | ----------- |----------- | ----------- |
+| Jiaohong Yao | TBC | THE NEURO-SYMBOLIC CONCEPT LEARNER: INTERPRETING SCENES, WORDS, AND SENTENCES FROM NATURAL SUPERVISION| Incomplete |
+| Xuning Tan | TBC | Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering | Incomplete |
