@@ -1,6 +1,7 @@
 # This is the Repo for ITSEG-System Engineering.
 
-The meeting time is set to Friday 15:00 Sydney each week. Notice that there might be daylight saving time in Sydney so please check your local time accordingly.
+The meeting time is set to Friday 15:00 Sydney each week. 
+Please notice that there might be daylight saving time in Sydney so please check your local time accordingly.
 The current arragement for article reading and sharing is as shown:
 
 | Name      | Date | Article| Status|
