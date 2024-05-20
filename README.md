@@ -7,7 +7,7 @@ The current arragement for article reading and sharing is as shown:
 ## Order List
 
 |Order | Name | 
-| ----------- | ----------- |
+|-| ----------- |
 |1|Jiaohong Yao|
 |2|Imran Afridi|
 |3|Zhen Lu|
@@ -17,12 +17,18 @@ The current arragement for article reading and sharing is as shown:
 
 ## Graduated
 
-|1|Qiong Li|
+| Name | 
+| ------ |
+|Qiong Li|
 
 ## Timetable
 
 | Name      | Date | Article| Status|
 | ----------- | ----------- |----------- | ----------- |
+| Wenyu Dong | May 30 2024 16:00 Sydney (UTC+10) | TBD | Ongoing |
+| Yuzhe Tian | May 23 2024 16:00 Sydney (UTC+10) | Geometric Deep Learning | Ongoing |
+| Chuxuan Tong | May 17 2024 16:00 Sydney (UTC+10) | Towards Probabilistic Verification of Machine Unlearning | Complete |
+| Zhen Lu | April 12 2024 16:00 Sydney (UTC+10) | ViperGPT | Complete |
 | Wenyu Dong | April 5 2024 16:00 Sydney (UTC+11) | ROS2 | Complete |
 | Qiong Li | Mar 15 2024 16:00 Sydney (UTC+11) | FEDERATED LEARNING | Complete |
 | Jiaohong Yao | Mar 8 2024 16:00 Sydney (UTC+11) | Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers| Complete |
