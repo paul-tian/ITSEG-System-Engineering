@@ -9,11 +9,15 @@ The current arragement for article reading and sharing is as shown:
 |Order | Name | 
 | ----------- | ----------- |
 |1|Jiaohong Yao|
-|2|Zhen Lu|
-|3|Chuxuan Tong|
-|4|Yuzhe Tian|
-|5|Qiong Li|
+|2|Imran Afridi|
+|3|Zhen Lu|
+|4|Chuxuan Tong|
+|5|Yuzhe Tian|
 |6|Wenyu Dong|
+
+## Graduated
+
+|1|Qiong Li|
 
 ## Timetable
 
