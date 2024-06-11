@@ -25,8 +25,9 @@ The current arragement for article reading and sharing is as shown:
 
 | Name      | Date | Article| Status|
 | ----------- | ----------- |----------- | ----------- |
-| Wenyu Dong | May 30 2024 16:00 Sydney (UTC+10) | TBD | Ongoing |
-| Yuzhe Tian | May 23 2024 16:00 Sydney (UTC+10) | Geometric Deep Learning | Ongoing |
+| Jiaohong Yao | June 20th 2024 16:00 Sydney (UTC+10) | TBD | Ongoing |
+| Wenyu Dong | June 13th 2024 16:00 Sydney (UTC+10) | TBD | Ongoing |
+| Yuzhe Tian | June 6th 2024 16:00 Sydney (UTC+10) | Geometric Deep Learning | Complete |
 | Chuxuan Tong | May 17 2024 16:00 Sydney (UTC+10) | Towards Probabilistic Verification of Machine Unlearning | Complete |
 | Zhen Lu | April 12 2024 16:00 Sydney (UTC+10) | ViperGPT | Complete |
 | Wenyu Dong | April 5 2024 16:00 Sydney (UTC+11) | ROS2 | Complete |
