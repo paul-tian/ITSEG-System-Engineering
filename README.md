@@ -25,6 +25,8 @@ The current arragement for article reading and sharing is as shown:
 
 | Name      | Date | Article| Status|
 | ----------- | ----------- |----------- | ----------- |
+| Yuzhe Tian | August 15th 2024 16:00 Sydney (UTC+10) |   | Planned |
+| Chuxuan Tong | August 8th 2024 16:00 Sydney (UTC+10) |  | Planned |
 | Zhen Lu | August 1st 2024 16:00 Sydney (UTC+10) | NEUROSYMBOLIC and activities recognition | Ongoing |
 |  | July 25th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
 |  | July 18th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
