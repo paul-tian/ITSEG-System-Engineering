@@ -25,9 +25,13 @@ The current arragement for article reading and sharing is as shown:
 
 | Name      | Date | Article| Status|
 | ----------- | ----------- |----------- | ----------- |
-| Yuzhe Tian | August 15th 2024 16:00 Sydney (UTC+10) |   | Planned |
-| Chuxuan Tong | August 8th 2024 16:00 Sydney (UTC+10) |  | Planned |
-| Zhen Lu | August 1st 2024 16:00 Sydney (UTC+10) | NEUROSYMBOLIC and activities recognition | Ongoing |
+| Wenyu Dong | August 22th 2024 16:00 Sydney (UTC+10) |   | Ongoing |
+|  | September 5th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
+|  | August 29th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
+| Yuzhe Tian | August 22th 2024 16:00 Sydney (UTC+10) | MatMul-Free LLM | Completed |
+| Chuxuan Tong | August 15th 2024 16:00 Sydney (UTC+10) |  | Completed |
+|  | August 8th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
+| Zhen Lu | August 1st 2024 16:00 Sydney (UTC+10) | NEUROSYMBOLIC and activities recognition | Completed |
 |  | July 25th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
 |  | July 18th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
 | Imran Afridi | July 11th 2024 16:00 Sydney (UTC+10) | Rapid Image Labeling via Neuro-Symbolic Learning | Completed |
