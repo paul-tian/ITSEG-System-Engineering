@@ -25,7 +25,7 @@ The current arragement for article reading and sharing is as shown:
 
 | Name      | Date | Article| Status|
 | ----------- | ----------- |----------- | ----------- |
-| Wenyu Dong | August 22th 2024 16:00 Sydney (UTC+10) |   | Ongoing |
+| Wenyu Dong | September 12th 2024 16:00 Sydney (UTC+10) |   | Ongoing |
 |  | September 5th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
 |  | August 29th 2024 16:00 Sydney (UTC+10) |  | Cancelled |
 | Yuzhe Tian | August 22th 2024 16:00 Sydney (UTC+10) | MatMul-Free LLM | Completed |
